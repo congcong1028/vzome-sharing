@@ -11,6 +11,9 @@ permalink: /2026/07/21/hypar_zometool_3x3/
 <vzome-viewer
   src="hypar_zometool_3x3_inventory.vZome"
   style="width: 100%; height: 650px;">
+  <img
+    src="hypar_zometool_3x3_inventory.png"
+    alt="3×3 Zometool 马鞍面预览图">
 </vzome-viewer>
 
 <p>
